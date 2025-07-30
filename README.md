@@ -82,4 +82,4 @@ Notes
 License
 MIT License © 2025 Abdul Raheem
 Contact
-For questions or collaboration, contact Abdul Raheem at [your_email@example.com].
+For questions or collaboration, contact Abdul Raheem at abdulraheem120602@gmail.com.
